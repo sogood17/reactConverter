@@ -1,0 +1,17 @@
+.btn {
+  background-color: mediumaquamarine;
+  border-radius: 5px;
+  border-color: mediumaquamarine;
+  color: snow;
+  width: 80px;
+  height: 26px;
+  size: 14px;
+}
+
+.input {
+  border-radius: 5px;
+  border-color: mediumaquamarine;
+  width: 150px;
+  height: 20px;
+  font-size: 14px;
+}
